@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">gCaptcha</lang>
+    </name>
+    <author>
+        <lang name="default">Stanislav Nevolin</lang>
+        <lang name="russian">Станислав Неволин</lang>
+    </author>
+    <homepage>http://nevolin.info</homepage>
+    <version>0.1</version>
+    <requires>
+        <livestreet>1.0.3</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">gCaptcha support in Livestreet</lang>
+        <lang name="russian">Использование gCaptcha в Livestreet</lang>
+    </description>
+</plugin>
