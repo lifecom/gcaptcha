@@ -1,10 +1,10 @@
 <?php
 /* 
- * Plugin gCaptcha
+ * Plugin InvisibleCaptcha
  * Author: Stanislav Nevolin, stanislav@nevolin.info
  */
 
-class PluginGcaptcha extends Plugin {
+class PluginInvisiblecaptcha extends Plugin {
 	public function Activate() {
 		return true;
 	}
